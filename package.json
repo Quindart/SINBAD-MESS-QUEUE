@@ -1,0 +1,32 @@
+{
+  "name": "sinbad-mess-queue",
+  "version": "1.0.0",
+  "description": "This useful for stored message queue simple and clean",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quindart/SINBAD-MESS-QUEUE.git"
+  },
+  "keywords": [
+    "message",
+    "queue",
+    "eventEmitter"
+  ],
+  "author": "Quindart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quindart/SINBAD-MESS-QUEUE/issues"
+  },
+  "homepage": "https://github.com/Quindart/SINBAD-MESS-QUEUE#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "chalk": "^4.1.2",
+    "express": "^5.1.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
