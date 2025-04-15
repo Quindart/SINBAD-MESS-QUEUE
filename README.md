@@ -76,7 +76,6 @@ Version	Supported
 < 4.0	❌
 
 Reporting a Vulnerability
-If you discover a security issue, please report it by emailing security@example.com.
 We aim to respond within 48 hours. Please do not disclose vulnerabilities publicly until we’ve investigated and released a fix.
 
 ## License
